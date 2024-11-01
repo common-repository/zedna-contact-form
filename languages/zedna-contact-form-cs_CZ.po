@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zedna Contact Form\n"
+"POT-Creation-Date: 2019-09-13 17:15-0700\n"
+"PO-Revision-Date: 2019-09-13 17:16-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: zedna-contact-from-attachment.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: zedna-contact-from-attachment.php:24
+msgid "Zedna Contact form Settings page"
+msgstr "Zedna Kontaktní formulář Nastavení"
+
+#: zedna-contact-from-attachment.php:24
+msgid "Zedna Contact form Settings"
+msgstr "Zedna Kontaktní formulář Nastavení"
+
+#: zedna-contact-from-attachment.php:73
+msgid "Zedna Contact form"
+msgstr "Zedna Kontaktní formulář"
+
+#: zedna-contact-from-attachment.php:80
+msgid "Allow attachment:"
+msgstr "Povolit přílohu:"
+
+#: zedna-contact-from-attachment.php:85 zedna-contact-from-attachment.php:88
+#: zedna-contact-from-attachment.php:101 zedna-contact-from-attachment.php:104
+msgid "No"
+msgstr "Ne"
+
+#: zedna-contact-from-attachment.php:86 zedna-contact-from-attachment.php:89
+#: zedna-contact-from-attachment.php:102 zedna-contact-from-attachment.php:105
+msgid "Yes"
+msgstr "Ano"
+
+#: zedna-contact-from-attachment.php:96
+msgid "Keep attachment in upload folder:"
+msgstr "Ponechat přílohu ve složce upload:"
+
+#: zedna-contact-from-attachment.php:112
+msgid "Default email:"
+msgstr "Výchozí email:"
+
+#: zedna-contact-from-attachment.php:114
+msgid "(or set one in shortcode)"
+msgstr "(nebo jej nastavte v shortcode)"
+
+#: zedna-contact-from-attachment.php:122
+msgid "Google reCaptcha site key:"
+msgstr "Google reCaptcha site key:"
+
+#: zedna-contact-from-attachment.php:125 zedna-contact-from-attachment.php:131
+msgid "Generate my keys"
+msgstr "Generovat klíče"
+
+#: zedna-contact-from-attachment.php:128
+msgid "Google reCaptcha secret key:"
+msgstr "Google reCaptcha secret key:"
+
+#: zedna-contact-from-attachment.php:134
+msgid "Custom text"
+msgstr "Vlastní text"
+
+#: zedna-contact-from-attachment.php:137
+msgid "Wrong E-mail."
+msgstr "Nesprávný E-mail."
+
+#: zedna-contact-from-attachment.php:142
+msgid "What about write something?"
+msgstr "A co takhle něco napsat?"
+
+#: zedna-contact-from-attachment.php:148
+msgid "Thank you! Your message has been sent."
+msgstr "Děkuji! Zpráva byla odeslána."
+
+#: zedna-contact-from-attachment.php:153
+msgid "Message has not been sent. Please try again."
+msgstr "Zpráva nebyla odeslána. Opakujte akci."
+
+#: zedna-contact-from-attachment.php:159
+msgid "Please fill in reCaptcha."
+msgstr "Vyplňte prosím reCaptcha."
+
+#: zedna-contact-from-attachment.php:164
+msgid "E-mail*"
+msgstr "E-mail*"
+
+#: zedna-contact-from-attachment.php:168
+msgid "Message*"
+msgstr "Zpráva*"
+
+#: zedna-contact-from-attachment.php:173
+msgid "Submit"
+msgstr "Odeslat"
+
+#: zedna-contact-from-attachment.php:180
+msgid ""
+"Insert this shortcode to your post <b>[contact email=\"yourmail@example.com"
+"\" subject=\"Your subject\"]</b>"
+msgstr ""
+"Vložte tento kód do svého příspěvku <b>[contact email = \"yourmail@example."
+"com\" subject = \"Váš předmět\"]</b>"
+
+#. Plugin Name of the plugin/theme
+msgid "Zedna Contact Form"
+msgstr "Zedna Kontaktní formulář"
+
+#. Plugin URI of the plugin/theme
+msgid "https://profiles.wordpress.org/zedna#content-plugins"
+msgstr "https://profiles.wordpress.org/zedna#content-plugins"
+
+#. Description of the plugin/theme
+msgid ""
+"Contact from with attachment and reCaptcha in shortcode. Users can also "
+"attach a file to email. You can keep the attachment also on server."
+msgstr ""
+"Kontakt s přílohou a s reCaptchou v shortcode. Uživatelé mohou připojit "
+"přílohu k e-mailu. Vy můžete tuto přílohu uložit i na server."
+
+#. Author of the plugin/theme
+msgid "Radek Mezulanik"
+msgstr "Radek Mezuláník"
+
+#. Author URI of the plugin/theme
+msgid "http://mezulanik.cz"
+msgstr "http://mezulanik.cz"

@@ -1,0 +1,17 @@
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+.success {
+  color: green;
+  font-weight: bold;
+}
+
+.hidden {
+  display: none;
+}
+
+.btn-attachment {
+  padding: 20px 0;
+}
